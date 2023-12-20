@@ -6,9 +6,7 @@
 #  Be careful, if you answer anything else it will know, and if maaybe if you're
 # not playing by the rules it might expose you. :)
 
-# Before playin/reading, try to do it yourself.
-
-
+# Before playin/reading, try to do it yourself!
 
 print("--- PICK A NUMBER! ---")
 print("Pick a number from 1 to 100.")
