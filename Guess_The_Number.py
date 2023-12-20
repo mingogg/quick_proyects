@@ -1,3 +1,13 @@
+# This is a fun game to create, to learn some functions and logic.
+# Although it's easy to create, you can still apply some good practice coding and
+# make a legible code for everyone. That is the point of this.
+
+# The main thing it's to develop an interactive game called "Guess the Secret Number".
+# RULES:
+# - The program has to select a random number between a specific range (in my case 1-100).
+# - The player has a limited amount of attempts to guess the secret number (in my case 10).
+# TRY IT YOURSELF BEFORE READING THE CODE!
+
 print("--- GUESS THE SECRET NUMBER! ---")
 print("A number between 1 and 100 has been selected.")
 print("Guess wich one!\n")
